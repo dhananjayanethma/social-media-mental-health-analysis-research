@@ -119,6 +119,3 @@ The findings indicate that:
 | Soorya Jayarathne | External Supervisor | BSc (Hons) in Psychological Counselling | External | — |
 
 ---
-
-## 🔑 Keywords
-AI-based mental health monitoring, deep learning for emotion analysis, facial expression recognition, natural language processing, sentiment analysis, social media behaviour analysis, user engagement tracking
