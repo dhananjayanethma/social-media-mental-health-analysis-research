@@ -106,12 +106,11 @@ The findings indicate that:
 
 ## 👨‍🏫 Supervision Team
 
-| Name | Role | Department | Institution | Email |
+| Name | Role | Qualification | Institution | Email |
 |----|----|----|----|----|
-| Junius Anjana | Supervisor | Information Technology | SLIIT | junius.a@sliit.lk |
-| Nathali Silva | Co-Supervisor | Information Technology | SLIIT | nathali.s@sliit.lk |
+| Dr.Junius Anjana | Supervisor | — | Sri Lanka Institute of Information Technology | junius.a@sliit.lk |
+| Dr.Nathali Silva | Co-Supervisor | — | Sri Lanka Institute of Information Technology | nathali.s@sliit.lk |
+| Soorya Jayarathne | External Supervisor | BSc (Hons) in Psychological Counselling | External | — |
 
 ---
 
-## 🔑 Keywords
-AI-based mental health monitoring, deep learning for emotion analysis, facial expression recognition, natural language processing, sentiment analysis, social media behaviour analysis, user engagement tracking
