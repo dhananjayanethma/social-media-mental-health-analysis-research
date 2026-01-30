@@ -5,6 +5,13 @@ This research project investigates the relationship between social media behavio
 
 ---
 
+## 📁 App Code
+You can access the Flutter app code for this project here:
+
+👉 [Google Drive — App Source Code](https://drive.google.com/drive/folders/1B6gE1NkYHo0CbxVCnpfXptx-ovyK9rwu?usp=sharing) :contentReference[oaicite:0]{index=0}
+
+---
+
 ## 🎯 Research Objectives
 - Analyze social media scrolling behaviour and user engagement patterns  
 - Detect emotional states using facial expression recognition  
@@ -53,8 +60,7 @@ The system consists of the following components:
 - **Backend & AI:** Python  
 - **Computer Vision:** CNN, Vision Transformers (ViT), Faster R-CNN  
 - **NLP Models:** BERT, GPT, LSTM, VADER, SentiWordNet  
-- **Machine Learning:** Support Vector Machine (SVM)  
-- **Datasets:** FER-2013, AffectNet  
+- **Machine Learning:** Support Vector Machine (SVM)   
 
 ---
 
@@ -96,7 +102,7 @@ The findings indicate that:
 ## 👥 Research Team
 
 | Name | Role | Department | Institution | Email |
-|----|----|----|----|----|
+|------|------|------------|-------------|-------|
 | Senadheera W.D.N.D. | Undergraduate Researcher | Information Technology | SLIIT | it21220388@my.sliit.lk |
 | Amarasinghe R.A.D.T. | Undergraduate Researcher | Information Technology | SLIIT | it21292118@my.sliit.lk |
 | Ekanayaka E.M.C.S. | Undergraduate Researcher | Information Technology | SLIIT | it21371790@my.sliit.lk |
@@ -106,11 +112,13 @@ The findings indicate that:
 
 ## 👨‍🏫 Supervision Team
 
-| Name | Role | Qualification | Institution | Email |
-|----|----|----|----|----|
-| Dr.Junius Anjana | Supervisor | — | Sri Lanka Institute of Information Technology | junius.a@sliit.lk |
-| Dr.Nathali Silva | Co-Supervisor | — | Sri Lanka Institute of Information Technology | nathali.s@sliit.lk |
+| Name | Role | Designation / Qualification | Institution | Email |
+|------|------|----------------------------|-------------|-------|
+| Dr. Junius Anjana | Supervisor | Senior Lecturer (Higher Grade) | Sri Lanka Institute of Information Technology | junius.a@sliit.lk |
+| Dr. Nathali Silva | Co-Supervisor | Assistant Professor | Sri Lanka Institute of Information Technology | nathali.s@sliit.lk |
 | Soorya Jayarathne | External Supervisor | BSc (Hons) in Psychological Counselling | External | — |
 
 ---
 
+## 🔑 Keywords
+AI-based mental health monitoring, deep learning for emotion analysis, facial expression recognition, natural language processing, sentiment analysis, social media behaviour analysis, user engagement tracking
