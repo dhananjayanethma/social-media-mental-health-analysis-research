@@ -27,7 +27,7 @@ You can access the Flutter app code for this project here:
   - Screen pause and interaction detection  
 
 - **Facial Expression Recognition (FER)**
-  - Real-time emotion detection (Happy, Sad, Angry, Fear, Disgust, Surprise, Neutral)  
+  - Real-time emotion detection (**Happy, Sad, Angry, Fear, Disgust, Surprise**)  
   - CNN and Vision Transformer-based models  
 
 - **Natural Language Processing (NLP)**
@@ -104,9 +104,9 @@ The findings indicate that:
 | Name | Role | Department | Institution | Email |
 |------|------|------------|-------------|-------|
 | Senadheera W.D.N.D. | Undergraduate Researcher | Information Technology | SLIIT | it21220388@my.sliit.lk |
+| Nanayakkara A.A.R. | Undergraduate Researcher | Information Technology | SLIIT | it21700156@my.sliit.lk |
 | Amarasinghe R.A.D.T. | Undergraduate Researcher | Information Technology | SLIIT | it21292118@my.sliit.lk |
 | Ekanayaka E.M.C.S. | Undergraduate Researcher | Information Technology | SLIIT | it21371790@my.sliit.lk |
-| Nanayakkara A.A.R. | Undergraduate Researcher | Information Technology | SLIIT | it21700156@my.sliit.lk |
 
 ---
 
